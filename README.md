@@ -1,2 +1,2 @@
-# ZlajaCash
+# Hiperbanka
  
