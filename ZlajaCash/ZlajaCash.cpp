@@ -11,6 +11,7 @@ int main()
 	unsigned long long int OIB, RezervaOIB;
 	char a, b, c, d, e, odabir, odabirtrnsakcije, valuta, opcijaulog;
 	int i, j, OIBtocan = 1, meduostatak, svota, KontrolnaZnmOIB, Zakljucavanje, Slovapostoje, iskoristeno, brojac, z1, z2, z3, z4, z5, z6, z7, z8, z9, z10, z11, cryptobroj;
+    int test = 1;
 	int BrojeviZaOIB[11];
 	double kripto[10][3];
 	double stediona[5][5];
